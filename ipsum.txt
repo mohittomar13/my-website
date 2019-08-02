@@ -1,4 +1,0 @@
-This ipsum file was created as the original file named ipsum was not created
-by me when in the tutorial the tutor was explaining creating and removing the
-files directly in github. So creating this file and this could be removed later
-if the need arise. For now just created the file.
